@@ -1,0 +1,19 @@
+h1 {
+    border: 10px solid rgb(57, 76, 197);
+    margin: 100px;
+}
+
+p {
+    border: 2px solid blue;
+    margin: 15px;
+    padding: 10px;
+}
+
+div {
+    border: 3px solid green;
+    margin: 20px;
+    padding: 15px;
+}
+body{
+    background-color: rebeccapurple;
+}

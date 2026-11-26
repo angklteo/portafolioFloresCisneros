@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Georgia;
+}
+
+p {
+    font-size: 18px;
+    font-family: ´bunge´, cursive;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: red;
+    color: yellow;
+    }
